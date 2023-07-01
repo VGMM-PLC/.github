@@ -9,7 +9,7 @@
 ### Secondly, the languages: Please try to stay within this list of languages, in order to avoid confusion or language barriers.
 1. For web apps, avoid PHP and instead use JavaScript forms / libraries, and for frameworks, please stick to VueJS, ExpressJS and / or PugJS
 2. For databases, please use PostregeSQL or MySQL for online databases, SQLite3 for memory and local containing secure information, and JSON for none sensetive information stored locally.
-3. For None web applications (Mobile / Desktop, etc), please use C based languages for low-level programming and VueJS for applications running web-based code.
+3. For None web applications (Mobile / Desktop, etc), please use C based (C, C++, C#, Go) or Rust for low-level programming
 #### Projects outside of this language list will be automatically rejected, but you may appeal this decision by requesting an addition to the list via management.
 
 ### Finally, the repository rules:
